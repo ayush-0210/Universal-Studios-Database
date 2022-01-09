@@ -1,9 +1,6 @@
 ---------------------------------------------------------
--- Authors : 
-    -- SHREYA BHOOTDA ()
-    -- KAUSHIK KUMARAN ()
 ---------------------------------------------------------
---SELECT * FROM reservation_details;
+
 drop table reservation_details;
 drop table customer_payments;
 drop table reservations;
@@ -161,9 +158,6 @@ commit;
 
 
 ---------------------------------------------------------
--- Authors : 
-    -- Ayush Malani (am95655)
-    -- Dipali Pandey (dp33957)
 ---------------------------------------------------------
 
 
@@ -380,9 +374,6 @@ SELECT * FROM Maintenance_Staff;
 
 
 ---------------------------------------------------------
--- Authors : 
-    -- Sahitya Sundar Raj Vijayanagar (sv25849)
-    -- Rohitashwa Chakraborty (rc47878)
 ---------------------------------------------------------
 
 
